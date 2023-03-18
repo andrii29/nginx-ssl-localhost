@@ -1,8 +1,9 @@
 ### Use ssl in local development via nginx and self-signed certificate
 
-> **Warning**
-> Tested in:
+> **Warning** Tested in:
+>
 > Linux: Chrome, Firefox
+>
 > Windows: Chrome
 
 ## Linux
