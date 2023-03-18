@@ -1,3 +1,4 @@
+### Use ssl in local development via nginx and self-signed certificate
 #### Install [mkcert](https://github.com/FiloSottile/mkcert#installation "mkcert")
     curl -JLO "https://dl.filippo.io/mkcert/latest?for=linux/amd64"
     chmod +x mkcert-v*-linux-amd64
