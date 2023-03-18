@@ -26,6 +26,7 @@ Open [site1](https://example1.com.local "site1") and [site2](https://example2.co
 ## Windows
 #### Download [mkcert](https://dl.filippo.io/mkcert/v1.4.4?for=windows/amd64 "mkcert") binary or check [release](https://github.com/FiloSottile/mkcert/releases "release") page
 #### Generate ssl certificates
+    Win+R -> cmd -> Enter
     C:\Users\User\Downloads\mkcert-v1.4.4-windows-amd64.exe -install
     cd nginx-ssl-localhost   # replace whth repo folder
     C:\Users\User\Downloads\mkcert-v1.4.4-windows-amd64.exe -cert-file ./ssl/local.crt -key-file ./ssl/local.key  localhost "*.com.local" 127.0.0.1 ::1
