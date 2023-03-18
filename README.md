@@ -1,8 +1,8 @@
 ### Use ssl in local development via nginx and self-signed certificate
 
-![alt text](https://github.com/andrii29/nginx-ssl-localhost/blob/main/images/image1.png?raw=true)
-![alt text](https://github.com/andrii29/nginx-ssl-localhost/blob/main/images/image3.png?raw=true)
-![alt text](https://github.com/andrii29/nginx-ssl-localhost/blob/main/images/image3.png?raw=true)
+![image](https://github.com/andrii29/nginx-ssl-localhost/blob/main/images/image.png?raw=true)
+![image2](https://github.com/andrii29/nginx-ssl-localhost/blob/main/images/image2.png?raw=true)
+![image3](https://github.com/andrii29/nginx-ssl-localhost/blob/main/images/image3.png?raw=true)
 
 > **Warning** Tested in:
 >
