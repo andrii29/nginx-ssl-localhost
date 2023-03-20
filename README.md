@@ -9,6 +9,8 @@
 > Linux: Chrome, Firefox
 >
 > Windows: Chrome
+>
+> MacOS: Chrome, Safari
 
 ## Linux
 #### Install [mkcert](https://github.com/FiloSottile/mkcert#linux "mkcert")
